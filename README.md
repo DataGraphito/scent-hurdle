@@ -1,5 +1,7 @@
 # scent-hurdle
 
+A project analyzing a perfume blog.
+
 Context can be found in the PDF file.
 
 The code I ran in RStudio is in the .R file.
